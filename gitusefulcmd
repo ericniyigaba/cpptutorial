@@ -1,0 +1,8 @@
+
+SOURCE CONTROL: git hub is one of the best source control where multiple people can work on the same file at the same time
+git status # gives you the status of curently files. one can see uncommitted changes
+git clone <git repository path> # this helps you to clone and download the repository created on github.com, in this case, cone does not wanna use GUI
+git add <file name> add changes repository
+git commit -m to commit the added files/changes to repository
+git push to push commited changes to git hub.com
+git pull # will get/download all changes pushed by all users
